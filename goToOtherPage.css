@@ -101,3 +101,10 @@
   }
 
   
+  
+  @media screen and (max-width: 1025px) {
+  .goeventcontent {
+    
+    font-size: 13px;
+}
+  }
