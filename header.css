@@ -232,14 +232,19 @@
   
   @media screen and (max-width: 1000px) {
     .subheading {
-      font-size: 41px;
+      font-size: 21px;
     }
   
-    .header {
-      height: 65vh;
-    }
-  
+   
     .application {
-    font-size: 45px;}
+    font-size: 28px;
+  }
+
+    .title {
+    
+      font-size: 40px;
+  
+  
+    } 
   }
   
