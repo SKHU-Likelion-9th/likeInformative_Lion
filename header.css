@@ -230,7 +230,7 @@
     }
   }
   
-  @media screen and (max-width: 1279px) {
+  @media screen and (max-width: 1025px) {
     .subheading {
       font-size: 41px;
     }
