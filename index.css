@@ -376,6 +376,7 @@ img {
   margin-left: -355px;
   animation: slidein 9s;
   animation-fill-mode: forwards;
+ 
 }
 
 @keyframes showup {
