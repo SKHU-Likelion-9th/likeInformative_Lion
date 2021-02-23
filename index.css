@@ -569,7 +569,7 @@ img {
 }
 
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1279px) {
   .navbar {
     justify-content: flex-start;
     width: 85vw;
